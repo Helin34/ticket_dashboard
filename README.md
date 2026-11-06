@@ -6,7 +6,11 @@ Bu proje; kullanıcıların teknik destek talepleri oluşturmasını, bu taleple
 
 ## 🎥 Proje Gif Önizleme
 
-<video src="https://github.com/Helin34/ticket_dashboard/raw/main/public/demo.mp4" controls width="100%"></video>
+
+
+https://github.com/user-attachments/assets/161cafe9-cd0d-4822-9a95-0e7b598763bb
+
+
 
 
 ## ✨ Özellikler
